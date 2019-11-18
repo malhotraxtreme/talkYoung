@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "Id": 1,
+            "Name": "Akash",
+            "DOB": "13-12-95",
+            "Email": "akm.2515@gmail.com",
+            "Password": "pwd",
+            "Gender": "M",
+            "MaritalStatus": "Unmarried",
+            "Address": "2487 Baseline Road",
+            "Phone": 123456789,
+            "Hobbies": [
+                "photography",
+                "coding",
+                "cooking"
+            ],
+            "Topics": [
+                "news",
+                "space",
+                "tesla",
+                "cars",
+                "stocks",
+                "science",
+                "maths",
+                "life"
+            ],
+            "Volunteer": true,
+            "MBTIPersonality": [
+                "E",
+                "T",
+                "S",
+                "J"
+            ],
+            "JobDomain": "WebDeveloper",
+            "LanguageSet": [
+                "english",
+                "hindi",
+                "punjabi"
+            ],
+            "ProfileBio": "Astronaut Kid",
+            "DpLink": "C:/blah/blah/and/blah.jpg"
+        },
+        {
+            "Id": 2,
+            "Name": "Archa",
+            "DOB": "13-11-18",
+            "Email": "jainKiVision@gmail.com",
+            "Password": "powder",
+            "Gender": "F",
+            "MaritalStatus": "Married",
+            "Address": "Bambai",
+            "Phone": 5454545454,
+            "Hobbies": [
+                "cooking",
+                "sleeping",
+                "coding"
+            ],
+            "Topics": [
+                "fashion",
+                "sports",
+                "news",
+                "computers",
+                "murder",
+                "ski",
+                "study"
+            ],
+            "Volunteer": true,
+            "MBTIPersonality": [
+                "I",
+                "T",
+                "P",
+                "S"
+            ],
+            "JobDomain": "Gangster",
+            "LanguageSet": [
+                "english",
+                "hindi",
+				"gujarati"
+            ],
+            "ProfileBio": "Topper in Class",
+            "DpLink": "C:/blah/blah/and/blah.jpg"
+        },
+        {
+            "Id": 3,
+            "Name": "Dipen",
+            "Email": "diwalapen@gmail.com",
+            "Password": "pwd3",
+            "Gender": "M",
+            "Address": "171 Lees Avenue",
+            "Phone": 123456789,
+            "Hobbies": [
+                "sleeping",
+                "exploring",
+                "adventure"
+            ],
+            "Topics": [
+                "ipad",
+                "computers",
+                "music",
+                "news",
+                "paris",
+                "dam",
+				"macbook"
+            ],
+            "Volunteer": false,
+            "MBTIPersonality": [
+                "I",
+                "T",
+                "S",
+                "J"
+            ],
+            "JobDomain": "WebDeveloper",
+            "LanguageSet": [
+                "english",
+                "hindi",
+                "gujarati"
+            ],
+            "ProfileBio": "Crime Master GOGO",
+            "DpLink": "C:/blah/blah/and/blah.jpg"
+        },
+		
+        {
+            "Id": 4,
+            "Name": "Yasmin",
+            "Email": "Yasandmin@gmail.com",
+            "Password": "pwd4",
+            "Gender": "F",
+            "Address": "171 South Keys",
+            "Phone": 123456789,
+            "Hobbies": [
+                "talking",
+                "walking",
+                "jogging",
+				"running",
+				"adventure"
+            ],
+            "Topics": [
+                "ipad",
+                "computers",
+                "iphone",
+                "sanitizer",
+                "nueroscience",
+                "science",
+				"hygiene"
+            ],
+            "Volunteer": true,
+            "MBTIPersonality": [
+                "E",
+                "N",
+                "F",
+                "P"
+            ],
+            "JobDomain": "WebDeveloper",
+            "LanguageSet": [
+                "english",
+                "arabic"
+            ],
+            "ProfileBio": "Don't mess with me",
+            "DpLink": "C:/blah/blah/and/blah.jpg"
+        }
+		
+    ]
+}

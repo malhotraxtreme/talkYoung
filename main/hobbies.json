@@ -1,0 +1,74 @@
+{
+  "HobbiesCat": [
+    {
+      "Adventure Sport": [
+        "Hiking",
+        "Canoeing",
+        "River Rafting",
+        "Kayaking",
+        "Skiing",
+        "Snowboarding",
+        "Surfboarding",
+        "Swimming",
+        "Biking",
+        "Martial Arts",
+        "Bird Watching",
+        "Hunting",
+        "Fishing"
+      ],
+      "Collecting": [
+        "Stamps",
+        "Coins",
+        "Books",
+        "Feathers",
+        "Postcards",
+        "Photos",
+        "Movies",
+        "Newspaper",
+        "Seeds"
+      ],
+      "Entertainment": [
+        "Movies",
+        "Comedy",
+        "Singing",
+        "Dancing",
+        "Documentaries",
+        "Gaming",
+        "Vlogging",
+        "Playing Instruments",
+        "Photography",
+        "Videography",
+        "Cinematography",
+        "Sound FX",
+        "Video FX",
+        "DJ"
+      ],
+      "Travel": [
+        "Tourism",
+        "Cruise",
+        "History"
+      ]
+    },
+    "Cooking",
+    "Gardening",
+    "Reading",
+    "Writing",
+    {
+      "Programming": [
+        "Open Source",
+        "Web Development",
+        "Application Development",
+        "IT"
+      ]
+    },
+    {
+      "Automotive": [
+        "Tuning",
+        "Modification",
+        "Repairs",
+        "Racing",
+        "Motorcycles"
+      ]
+    }
+  ]
+}
